@@ -23,7 +23,8 @@ Extra features contribute to the improvement of the models and these features ar
 
 Below is a breif exploration of the influence using different extra features with simple classifiers. Based on this result, our models uses Ngram and TF-IDF similarity.
 
-<img width="65%" height="65%" alt="example" src="https://pnggithub.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Features%20Influence">
+<img width="65%" height="65%" alt="example" src="https://github.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Features%20Influence.png">
+
 
 ## Different Word Representation Methods
 We also try to find the most suitable word representation for this specific task and we use Glove 300d in the competition.
