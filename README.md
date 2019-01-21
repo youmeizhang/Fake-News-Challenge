@@ -1,2 +1,2 @@
-# Fake-News-Challenge
-Building two CNN based models and GRU model
+# [Fake News Challenge](http://www.fakenewschallenge.org)
+
