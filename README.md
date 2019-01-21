@@ -23,17 +23,14 @@ Extra features contribute to the improvement of the models and these features ar
 
 Below is a breif exploration of the influence using different extra features with simple classifiers. Based on this result, our models uses Ngram and TF-IDF similarity.
 
-<img width="65%" height="65%" alt="example" src="Challenge/blob/master/structures/SABi-GRU.png">
-https://github.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Features%20Influence.png">
+<img width="65%" height="65%" alt="example" src="https://pnggithub.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Features%20Influence">
 
 ## Different Word Representation Methods
 We also try to find the most suitable word representation for this specific task and we use Glove 300d in the competition.
 
-<img width="65%" height="65%" alt="example" src="Challenge/blob/master/structures/SABi-GRU.png">
-https://github.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Different%20Vector%20Representation.png">
+<img width="65%" height="65%" alt="example" src="https://github.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Different%20Vector%20Representation.png">
 
 ## Final Model Performance
-1D CNN model performs the best in this case. However, please noted that due to the long training process, these three models are all trained under 20 epoches and GRU is trained even with fewer epoches since it takes much time to train than the CNN models. It is possible that with more training epoches, these model might produce a better results.
+1D CNN model performs the best in this case. However, please note that due to the long training process, these three models are all trained under 20 epoches and GRU is trained even with fewer epoches since it takes much time to train than the CNN models. It is possible that with more training epoches, these model might produce a better results.
 
-<img width="65%" height="65%" alt="example" src="Challenge/blob/master/structures/SABi-GRU.png">
-https://github.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Model%20Performances.png">
+<img width="65%" height="65%" alt="example" src="https://github.com/youmeizhang/Fake-News-Challenge/blob/master/structures/Model%20Performances.png">
